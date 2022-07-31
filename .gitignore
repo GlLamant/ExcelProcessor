@@ -1,0 +1,6 @@
+*.spec
+*.toc
+build/
+dist/
+.idea/
+doc/
