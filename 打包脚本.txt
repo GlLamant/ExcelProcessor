@@ -1,0 +1,1 @@
+pyinstaller -F src/ui/batch_match_and_copy_view.py --noconsole -n Excel批量操作工具
